@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T10:29:30.695Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.1" etag="E3ah7d7NvZ5RcPCdm21I" type="github"><diagram id="gXnKDJ27d5M22YitHdtO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T11:21:25.098Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="iGTC4pOjv0n7PmTyvNZd" version="14.3.1" type="github">
+  <diagram id="gXnKDJ27d5M22YitHdtO" name="Page-1">
+    <mxGraphModel dx="1609" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-3" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-743" y="-570" width="660" height="469" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-4" value="omgSancho&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-5" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry y="114" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="120" y="114" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-15" value="GIANNI BISMARK&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="90" y="139" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-16" value="CANTANTE&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="200" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/camping-65/500/maps-128.png" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="205" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-20" value="se vuoi trovare GIANNI BISMARK devi seguire questa mappa&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="125" y="291" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/x-circle-128.png" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/minus-circle-128.png" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iVkvTy92pQUX1yHOaG0u-24" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="iVkvTy92pQUX1yHOaG0u-3">
+          <mxGeometry x="510" y="114" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
